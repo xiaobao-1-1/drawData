@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="GTtvttoZAneKB4uyEYNI">
+    <mxGraphModel dx="820" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_EOlN6vvF664AqaNGLxs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="我" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-9" edge="1" parent="1" source="_EOlN6vvF664AqaNGLxs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_EOlN6vvF664AqaNGLxs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-13" edge="1" parent="1" source="_EOlN6vvF664AqaNGLxs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_EOlN6vvF664AqaNGLxs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-5" parent="1" style="whiteSpace=wrap;html=1;" value="陈总" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-6" parent="1" style="whiteSpace=wrap;html=1;" value="辉哥" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-16" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="tiktok" vertex="1">
+          <mxGeometry height="50" width="50" x="140" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="抖音" vertex="1">
+          <mxGeometry height="50" width="50" x="140" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="快手" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="视频号" vertex="1">
+          <mxGeometry height="50" width="50" x="260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="小红书" vertex="1">
+          <mxGeometry height="50" width="50" x="320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-26" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strike&gt;Kwai&lt;/strike&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-27" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;strike&gt;rednote&lt;/strike&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-28" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="淘宝/天猫" vertex="1">
+          <mxGeometry height="50" width="50" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-29" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="京东" vertex="1">
+          <mxGeometry height="50" width="50" x="570" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-30" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="拼多多" vertex="1">
+          <mxGeometry height="50" width="50" x="640" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-31" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="得物" vertex="1">
+          <mxGeometry height="50" width="50" x="777" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-32" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="唯品会" vertex="1">
+          <mxGeometry height="50" width="50" x="1380" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-33" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="唯品会" vertex="1">
+          <mxGeometry height="50" width="50" x="710" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-34" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="商品卡" vertex="1">
+          <mxGeometry height="50" width="50" x="140" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-35" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="短视频" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-36" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="达人" vertex="1">
+          <mxGeometry height="50" width="50" x="320" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-37" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;strike&gt;直播&lt;/strike&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="380" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-38" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="投流" vertex="1">
+          <mxGeometry height="50" width="50" x="260" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-41" edge="1" parent="1" source="_EOlN6vvF664AqaNGLxs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_EOlN6vvF664AqaNGLxs-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-39" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="店长模式" vertex="1">
+          <mxGeometry height="50" width="50" x="140" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="_EOlN6vvF664AqaNGLxs-40" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="底薪+提成&lt;br&gt;底薪+股份" vertex="1">
+          <mxGeometry height="50" width="160" x="230" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
